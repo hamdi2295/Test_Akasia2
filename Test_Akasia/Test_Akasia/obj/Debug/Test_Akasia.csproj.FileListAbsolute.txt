@@ -1,0 +1,7 @@
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\bin\Debug\Test_Akasia.exe.config
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\bin\Debug\Test_Akasia.exe
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\bin\Debug\Test_Akasia.pdb
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\obj\Debug\Test_Akasia.csproj.AssemblyReference.cache
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\obj\Debug\Test_Akasia.csproj.CoreCompileInputs.cache
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\obj\Debug\Test_Akasia.exe
+C:\Users\mhamd\Documents\Rosen\Test_Akasia\Test_Akasia\obj\Debug\Test_Akasia.pdb
